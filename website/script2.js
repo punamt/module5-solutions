@@ -15,11 +15,11 @@ var dc = {};
 
 var homeHtmlUrl = "home-snippet.html";
 var allCategoriesUrl =
-  "http://davids-restaurant.herokuapp.com/categories.json";
+  "https://davids-restaurant.herokuapp.com/categories.json";
 var categoriesTitleHtml = "/category-title-snippet.html";
 var categoryHtml = "category-snippet.html";
 var menuItemsUrl =
-  "http://davids-restaurant.herokuapp.com/menu_items.json?category=";
+  "https://davids-restaurant.herokuapp.com/menu_items.json?category=";
 var menuItemsTitleHtml = "menu-items-title.html";
 var menuItemHtml = "menu-item.html";
 
